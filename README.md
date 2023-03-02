@@ -1,2 +1,3 @@
-# ordinebook-backend-api-repo
-backend api for a simple social media plattform
+# Odinbook
+
+Frontend: https://github.com/brackenl/odinbook_frontend/
